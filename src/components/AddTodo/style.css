@@ -1,0 +1,23 @@
+.add-todo{
+    margin: 10px;
+    padding: 10px;
+}
+
+.add-name{
+    font-size: 16px;
+    width: 150px;
+    height: 20px;
+    margin-right: 10px;
+    background-color:#f5faf9;
+    border-radius: 0%;
+}
+
+.add-button{
+    background-color: #1f22de;
+    border-color: #1f22de;
+    color: #f5faf9;
+    width: 180px;
+    height: 25px;
+    border-radius: 10px;
+    font-size: 15px;
+}

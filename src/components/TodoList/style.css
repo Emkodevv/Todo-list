@@ -1,0 +1,51 @@
+.todo-list{
+    font-size: 23px;
+    color:floralwhite;
+}
+
+.set-name{
+    width: 200px;
+    height: 25px;
+    font-size: 18px;
+    background-color: rgb(114, 230, 250);
+}
+
+.save-todo{
+    width: 100px;
+    height: 23px;
+    font-size: 17px;
+    border-color: #7d0707;
+    background-color: #7d0707;
+    color:#ffffff;
+}
+
+.edit-todo{
+    width: 100px;
+    height: 23px;
+    font-size: 17px;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: #04cddb;
+    background-color:#04cddb;
+    color:#ffffff;
+}
+
+.status-todo{
+    width: 100px;
+    height: 23px;
+    font-size: 17px;
+    border-radius: 10px;
+    border-color: #19cf08;
+    background-color:#19cf08;
+    color:#ffffff;
+}
+
+.delete-todo{
+    width: 100px;
+    height: 23px;
+    font-size: 17px;
+    border-radius: 10px;
+    border-color:#6f0485;
+    background-color: #6f0485;
+    color:#ffffff;
+}
